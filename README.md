@@ -39,6 +39,6 @@ This Bank Management System is developed using Object-Oriented Methodology to pr
 For any inquiries or support, please contact 
 1. ["Dinesh"] at [iit2022219@iiita.ac.in].
 2. ["Jayant"] at [iit2022218@iiita.ac.in].
-3. ["Ansh"] at [iit2022217@iiita.ac.in].
+3. ["Ansh"] at [iit2022216@iiita.ac.in].
  
 
