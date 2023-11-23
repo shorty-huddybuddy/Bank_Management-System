@@ -1,7 +1,9 @@
 # Bank Management System
 
 ## Direction to run
-you can run the application by executing Main.java file .
+- first clone the whole folder to your local PC .
+- then buy using IDE like Intellige IDE ,  Eclipse ,Netbean etc. 
+- you can run the application by executing Main.java file .
 
 ## Overview
 
