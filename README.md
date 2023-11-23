@@ -2,7 +2,7 @@
 
 ## Direction to run
 - first clone the whole folder to your local PC .
-- then buy using IDE like Intellige IDE ,  Eclipse ,Netbean etc. 
+- then by using IDE like Intellige IDE ,  Eclipse ,Netbean etc. 
 - you can run the application by executing Main.java file .
 
 ## Overview
